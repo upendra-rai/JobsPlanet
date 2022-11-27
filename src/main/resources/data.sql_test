@@ -1,0 +1,5 @@
+INSERT INTO rpay (id, name) VALUES (5, 'USA');
+INSERT INTO rpay (id, name) VALUES (6, 'France');
+INSERT INTO rpay (id, name) VALUES (7, 'Brazil');
+INSERT INTO rpay (id, name) VALUES (8, 'Italy');
+INSERT INTO rpay (id, name) VALUES (9, 'Canada');
